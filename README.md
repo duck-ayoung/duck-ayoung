@@ -18,3 +18,5 @@ Here are some ideas to get you started:
   <a href="https://miracle-sally.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:duck.ayoung@gmail.com" target="_blank"><img src="https://img.shields.io/badge/duck.ayoung@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duck-ayoung&show_icons=true&theme=merko)
