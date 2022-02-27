@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=FCF3CF&height=100&section=header&text=duck-ayoung&fontColor=82E0AA&fontSize=50)
 
 <!--
 **duck-ayoung/duck-ayoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+  <a href="https://miracle-sally.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="mailto:duck.ayoung@gmail.com" target="_blank"><img src="https://img.shields.io/badge/duck.ayoung@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
